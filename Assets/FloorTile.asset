@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c6adc86a2a5c344ab76a39b20da91d1, type: 3}
+  m_Name: FloorTile
+  m_EditorClassIdentifier: 
+  nameID: FloorTile
+  prefab: {fileID: 4012092747948313961, guid: 24e4421e4f5aa66478187564017e69ad, type: 3}
+  walkable: 1
